@@ -1,0 +1,4 @@
+Course
+std::string courseCode
+std::string courseName
+unsigned short int creditHours

@@ -1,6 +1,0 @@
-Person
-std::string id
-std::string fName
-std::string lName
-unsigned short int age
-float weight

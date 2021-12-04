@@ -1,0 +1,5 @@
+Registeration
+Course* course
+Student* student
+float gpa
+float attendancePercentage
